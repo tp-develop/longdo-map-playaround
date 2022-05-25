@@ -67,7 +67,7 @@ typings/
 
 # nuxt.js build output
 .nuxt
-!.nuxt\views\app.template.html
+!longdo-map-app/.nuxt/views/app.template.html
 # Nuxt generate
 dist
 
